@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Komodo'
-copyright = '2021, Brandon Dang, Robert Wallace, David Tamayo'
-author = 'Brandon Dang, Robert Wallace, David Tamayo'
+copyright = '2021, Brandon Dang, David Tamayo, Robert Wallace'
+author = 'Brandon Dang, David Tamayo, Robert Wallace'
 
 
 # -- General configuration ---------------------------------------------------
